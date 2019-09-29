@@ -97,6 +97,14 @@ So far I have theorycrafted/field tested 3 comps that I'm sure that works which 
 - Higher gear requirement with proper understanding of the map characteristics: damage counter comps (maybe reflect)
 - Galaxy bren ML Rin comp
 
+# Recommended  comp [example](https://cdn.discordapp.com/attachments/621571050471424013/627956233080537098/Screenshot_2019-09-29-12-42-52.png)
+
+Shooting star Achates, Yufine, Dominel, Attack buffer 
+
+# Set up
+
+for normal labs, once you have you buffs on yufine and out of combat, reduce your morale to -50 since normally -30 morale doesn't make yufine slow enough, set up right before you hit -30 morale then reduce your morale to -30. However for Raid your stat get decreased by -80% at -30 morale so you can start then.
+
 <br/>
 
 ### Reflect Comp:
@@ -151,6 +159,16 @@ There's no ideal attack % buff, sometimes you might want more, sometimes you mig
 
 
 This is the hardest comp to execute but it's also the fastest while being the most consistent (no more RNG Counter hurray). The star of the show here is the [counter buff](Yufine%20Raid%20Boss%20Guide.md#counter-ml-rin-exclusive-steal) which can only be obtained by stealing it from a counterattacking mini-boss (most notably 2nd miniboss on Hell Kark side) else everything is straight forward, stack attack, crit and reflect buffs, etc etc. Since your Yufine is countering every attack, counter set is not even needed in this comp and you can safely go resist to meet the ER requisite or attack/destruction/crit sets instead. **P.S: REMEMBER ARKY BUFF**
+
+<br/>
+
+#### Enemies to watch out for
+
+3-2 lab: Blue turtle (has barrier and def buff, really makes the fights longer), Mini Boss Blue turtle (same reason but barrier is large enough for you to get stuck on potentially if you don't have enough damage output)
+
+3-3 lab: Blue barrier crystals (literally cannot attack so if you see this when youre building up buff duration it can screw you up, main reason you'd avoid doing this lab), Mini boss barrier crystal (potentially end your run cause of how long it woulds take for you to take it down and by then you may have lost your buffs)
+
+Raid: Juleeve Council (you cannot resist the boss' passive dispel), Executioner Karkanis (cause his stealth heals him it is very hard to kill him without reflect)
 
 ---
 
